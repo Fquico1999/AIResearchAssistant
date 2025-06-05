@@ -4,3 +4,4 @@ __pycache__/
 *.pyo
 data/papers/
 chroma_db_store/
+.python-version
