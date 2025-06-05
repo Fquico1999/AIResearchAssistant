@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 *.pyo
 data/papers/
+chroma_db_store/
